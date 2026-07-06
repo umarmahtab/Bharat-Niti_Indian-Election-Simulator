@@ -4,6 +4,11 @@
 
 ---
 
+# Demo Link
+https://bharat-niti.vercel.app/
+
+---
+
 ## 📖 About
 
 **Bharat Niti** is a turn-based political strategy game where players manage election campaigns, form alliances, respond to dynamic political events, and compete against intelligent AI to win Lok Sabha and State Assembly elections.
