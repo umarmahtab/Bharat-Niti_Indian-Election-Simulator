@@ -1,44 +1,55 @@
-# Bharat Niti
+# 🇮🇳 Bharat Niti
 
-> A browser-based Indian political strategy and election simulation game built with React, TypeScript, Vite, Zustand, Tailwind CSS, and Framer Motion.
+> A browser-based Indian political strategy and election simulation game inspired by India's democratic process.
 
 ---
 
 ## 📖 About
 
-**Bharat Niti** is a turn-based election strategy simulator inspired by India's democratic process.
+**Bharat Niti** is a turn-based political strategy game where players manage election campaigns, form alliances, respond to dynamic political events, and compete against intelligent AI to win Lok Sabha and State Assembly elections.
 
-Build your campaign, form alliances, manage resources, respond to dynamic political events, and compete against intelligent AI to secure a parliamentary majority or become Chief Minister.
+Built with **React**, **TypeScript**, **Vite**, **Zustand**, **Tailwind CSS**, and **Framer Motion**.
 
 ---
 
 ## 📸 Screenshots
 
-Screenshots are available in the **`screenshots/`** folder.
+| Main Menu | Game Setup |
+|:---------:|:----------:|
+| ![](Screenshots/Main_Menu.png) | ![](Screenshots/Choose.png) |
+| **Main Menu** | **New Game Setup** |
 
-| Home | Campaign | Election Night |
-|------|----------|----------------|
-| ![](screenshots/home.png) | ![](screenshots/campaign.png) | ![](screenshots/election-night.png) |
+| Dashboard | War Room |
+|:---------:|:--------:|
+| ![](Screenshots/dashboard.png) | ![](Screenshots/war_room.png) |
+| **Campaign Dashboard** | **Campaign War Room** |
+
+| Shadow Operations | Settings |
+|:-----------------:|:--------:|
+| ![](Screenshots/shadow_ops.png) | ![](Screenshots/setting.png) |
+| **Shadow Operations** | **Game Settings** |
 
 ---
 
 ## ✨ Features
 
 - 🗳️ Lok Sabha Election Mode
-- 🏛️ State Assembly Mode *(Work in Progress)*
-- 🤝 Alliance & Seat Sharing
+- 🏛️ State Assembly Election Mode *(In Development)*
+- 🤝 Dynamic Alliance & Seat Sharing
 - 🗺️ Interactive India Map
 - 📍 Constituency-Level Campaigning
 - 🧠 Intelligent AI Opponents
-- 📊 Opinion & Exit Polls
-- ⚡ Dynamic Political Events
+- 📊 Opinion Polls & Exit Polls
+- ⚡ Dynamic Political Event Engine
 - 🎯 Campaign War Room
+- 💰 Campaign Budget & Resource Management
 - 📈 Realistic Election Simulation
 - 💾 Save & Resume Campaigns
+- 🌐 Fully Offline Browser Experience
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 - React
 - TypeScript
@@ -49,24 +60,59 @@ Screenshots are available in the **`screenshots/`** folder.
 
 ---
 
-## 🚀 Installation
+## 🚀 Getting Started
+
+Clone the repository
 
 ```bash
-git clone https://github.com/umarmahtab18/bharat-niti.git
+git clone https://github.com/umarmahtab18/indian-political-simulator.git
+```
 
-cd bharat-niti
+Navigate to the project
 
+```bash
+cd indian-political-simulator
+```
+
+Install dependencies
+
+```bash
 npm install
+```
 
+Run the development server
+
+```bash
 npm run dev
 ```
+
+Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 🗺️ Roadmap
+
+- ✅ Lok Sabha Campaign
+- ✅ AI Election Simulation
+- ✅ Dynamic Political Events
+- ✅ Interactive India Map
+- 🚧 State Assembly Mode
+- 🚧 District-Level Campaigning
+- 🚧 Enhanced AI Strategy
+- 🚧 Expanded Political Event Database
 
 ---
 
 ## 📄 Disclaimer
 
-**Bharat Niti** is a fictional strategy game inspired by India's democratic process. It is created solely for entertainment and educational purposes and does not endorse or represent any political party, leader, or organization.
+**Bharat Niti** is a fictional strategy game inspired by India's democratic process and is created solely for entertainment and educational purposes. Any resemblance between in-game outcomes and real-world events is purely coincidental.
 
 ---
 
-⭐ If you enjoyed the project, consider giving it a Star!
+## ⭐ Support
+
+If you enjoyed the project, consider giving it a ⭐ on GitHub!
