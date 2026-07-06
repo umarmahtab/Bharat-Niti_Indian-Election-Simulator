@@ -1,4 +1,4 @@
-Bharat Niti
+# Bharat Niti
 
 > A browser-based Indian political strategy and election simulation game built with React, TypeScript, Vite, Zustand, Tailwind CSS, and Framer Motion.
 
