@@ -70,7 +70,7 @@ Built with **React**, **TypeScript**, **Vite**, **Zustand**, **Tailwind CSS**, a
 Clone the repository
 
 ```bash
-git clone https://github.com/umarmahtab18/indian-political-simulator.git
+git clone https://github.com/umarmahtab/indian-political-simulator.git
 ```
 
 Navigate to the project
