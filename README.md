@@ -52,7 +52,7 @@ Screenshots are available in the **`screenshots/`** folder.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/bharat-niti.git
+git clone https://github.com/umarmahtab18/bharat-niti.git
 
 cd bharat-niti
 
