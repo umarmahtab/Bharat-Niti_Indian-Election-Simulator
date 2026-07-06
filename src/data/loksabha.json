@@ -1,0 +1,4687 @@
+{
+  "Uttar Pradesh": {
+    "stateId": "Uttar Pradesh",
+    "totalSeats": 80,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Saharanpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.4
+      },
+      {
+        "number": 2,
+        "name": "Kairana",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 6.2
+      },
+      {
+        "number": 3,
+        "name": "Muzaffarnagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 2.1
+      },
+      {
+        "number": 4,
+        "name": "Bijnor",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.5
+      },
+      {
+        "number": 5,
+        "name": "Nagina",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 12.1
+      },
+      {
+        "number": 6,
+        "name": "Moradabad",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 8.5
+      },
+      {
+        "number": 7,
+        "name": "Rampur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 7.4
+      },
+      {
+        "number": 8,
+        "name": "Sambhal",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 10.2
+      },
+      {
+        "number": 9,
+        "name": "Amroha",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 4.1
+      },
+      {
+        "number": 10,
+        "name": "Meerut",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 1.2
+      },
+      {
+        "number": 11,
+        "name": "Baghpat",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 14.2
+      },
+      {
+        "number": 12,
+        "name": "Ghaziabad",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 22.1
+      },
+      {
+        "number": 13,
+        "name": "Gautam Buddha Nagar",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 28.4
+      },
+      {
+        "number": 14,
+        "name": "Bulandshahr",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 20.3
+      },
+      {
+        "number": 15,
+        "name": "Aligarh",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 1.8
+      },
+      {
+        "number": 16,
+        "name": "Hathras",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.5
+      },
+      {
+        "number": 17,
+        "name": "Mathura",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 25.4
+      },
+      {
+        "number": 18,
+        "name": "Agra",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 18.2
+      },
+      {
+        "number": 19,
+        "name": "Fatehpur Sikri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.8
+      },
+      {
+        "number": 20,
+        "name": "Firozabad",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 7.9
+      },
+      {
+        "number": 21,
+        "name": "Mainpuri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 18.4
+      },
+      {
+        "number": 22,
+        "name": "Etah",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 2.5
+      },
+      {
+        "number": 23,
+        "name": "Badaun",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 3.2
+      },
+      {
+        "number": 24,
+        "name": "Aonla",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 1.5
+      },
+      {
+        "number": 25,
+        "name": "Bareilly",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.1
+      },
+      {
+        "number": 26,
+        "name": "Pilibhit",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 6.8
+      },
+      {
+        "number": 27,
+        "name": "Shahjahanpur",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 4.9
+      },
+      {
+        "number": 28,
+        "name": "Kheri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 2.7
+      },
+      {
+        "number": 29,
+        "name": "Dhaurahra",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 3.9
+      },
+      {
+        "number": 30,
+        "name": "Sitapur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 7.1
+      },
+      {
+        "number": 31,
+        "name": "Hardoi",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 2.5
+      },
+      {
+        "number": 32,
+        "name": "Misrikh",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.1
+      },
+      {
+        "number": 33,
+        "name": "Unnao",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 4.8
+      },
+      {
+        "number": 34,
+        "name": "Mohanlalganj",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 6.3
+      },
+      {
+        "number": 35,
+        "name": "Lucknow",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.2
+      },
+      {
+        "number": 36,
+        "name": "Rae Bareli",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 28.5
+      },
+      {
+        "number": 37,
+        "name": "Amethi",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 14.3
+      },
+      {
+        "number": 38,
+        "name": "Sultanpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 3.5
+      },
+      {
+        "number": 39,
+        "name": "Pratapgarh",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 5.9
+      },
+      {
+        "number": 40,
+        "name": "Farrukhabad",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 0.4
+      },
+      {
+        "number": 41,
+        "name": "Etawah",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 4.8
+      },
+      {
+        "number": 42,
+        "name": "Kannauj",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 12.1
+      },
+      {
+        "number": 43,
+        "name": "Kanpur",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.9
+      },
+      {
+        "number": 44,
+        "name": "Akbarpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 4.2
+      },
+      {
+        "number": 45,
+        "name": "Jalaun",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 4.1
+      },
+      {
+        "number": 46,
+        "name": "Jhansi",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 15.6
+      },
+      {
+        "number": 47,
+        "name": "Hamirpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 1.2
+      },
+      {
+        "number": 48,
+        "name": "Banda",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 6.8
+      },
+      {
+        "number": 49,
+        "name": "Fatehpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 3.1
+      },
+      {
+        "number": 50,
+        "name": "Kaushambi",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 9.2
+      },
+      {
+        "number": 51,
+        "name": "Phulpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 0.8
+      },
+      {
+        "number": 52,
+        "name": "Allahabad",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.4
+      },
+      {
+        "number": 53,
+        "name": "Barabanki",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 18.2
+      },
+      {
+        "number": 54,
+        "name": "Ayodhya",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 4.9
+      },
+      {
+        "number": 55,
+        "name": "Ambedkar Nagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 11.5
+      },
+      {
+        "number": 56,
+        "name": "Bahraich",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 5.1
+      },
+      {
+        "number": 57,
+        "name": "Shrawasti",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 6.2
+      },
+      {
+        "number": 58,
+        "name": "Gonda",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 4.1
+      },
+      {
+        "number": 59,
+        "name": "Domariyaganj",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 3.8
+      },
+      {
+        "number": 60,
+        "name": "Basti",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 8.7
+      },
+      {
+        "number": 61,
+        "name": "Sant Kabir Nagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 7.5
+      },
+      {
+        "number": 62,
+        "name": "Maharajganj",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 1.2
+      },
+      {
+        "number": 63,
+        "name": "Gorakhpur",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 10.5
+      },
+      {
+        "number": 64,
+        "name": "Kushi Nagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 6.4
+      },
+      {
+        "number": 65,
+        "name": "Deoria",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.1
+      },
+      {
+        "number": 66,
+        "name": "Bansgaon",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 0.3
+      },
+      {
+        "number": 67,
+        "name": "Lalganj",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 8.9
+      },
+      {
+        "number": 68,
+        "name": "Azamgarh",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 14.1
+      },
+      {
+        "number": 69,
+        "name": "Ghosi",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 15.2
+      },
+      {
+        "number": 70,
+        "name": "Salempur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 2.9
+      },
+      {
+        "number": 71,
+        "name": "Ballia",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 4.1
+      },
+      {
+        "number": 72,
+        "name": "Jaunpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 8.9
+      },
+      {
+        "number": 73,
+        "name": "Machhlishahr",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 1.2
+      },
+      {
+        "number": 74,
+        "name": "Ghazipur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 18.9
+      },
+      {
+        "number": 75,
+        "name": "Chandauli",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 2.1
+      },
+      {
+        "number": 76,
+        "name": "Varanasi",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 15.2
+      },
+      {
+        "number": 77,
+        "name": "Bhadohi",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.9
+      },
+      {
+        "number": 78,
+        "name": "Mirzapur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.5
+      },
+      {
+        "number": 79,
+        "name": "Robertsganj",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "SP",
+        "incumbentMargin": 10.4
+      },
+      {
+        "number": 80,
+        "name": "Allahabad East",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 4.8
+      }
+    ]
+  },
+  "Maharashtra": {
+    "stateId": "Maharashtra",
+    "totalSeats": 48,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Nandurbar",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 14.5
+      },
+      {
+        "number": 2,
+        "name": "Dhule",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 0.4
+      },
+      {
+        "number": 3,
+        "name": "Jalgaon",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 18.2
+      },
+      {
+        "number": 4,
+        "name": "Raver",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 10.1
+      },
+      {
+        "number": 5,
+        "name": "Buldhana",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SS",
+        "incumbentMargin": 2.9
+      },
+      {
+        "number": 6,
+        "name": "Akola",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.8
+      },
+      {
+        "number": 7,
+        "name": "Amravati",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 1.8
+      },
+      {
+        "number": 8,
+        "name": "Wardha",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "NCP",
+        "incumbentMargin": 6.8
+      },
+      {
+        "number": 9,
+        "name": "Ramtek",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "SS",
+        "incumbentMargin": 7.4
+      },
+      {
+        "number": 10,
+        "name": "Nagpur",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.2
+      },
+      {
+        "number": 11,
+        "name": "Bhandara Gondiya",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 3.1
+      },
+      {
+        "number": 12,
+        "name": "Gadchiroli Chimur",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 12.3
+      },
+      {
+        "number": 13,
+        "name": "Chandrapur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 18.2
+      },
+      {
+        "number": 14,
+        "name": "Yavatmal Washim",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SS",
+        "incumbentMargin": 6.2
+      },
+      {
+        "number": 15,
+        "name": "Hingoli",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SS",
+        "incumbentMargin": 8.9
+      },
+      {
+        "number": 16,
+        "name": "Nanded",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 4.8
+      },
+      {
+        "number": 17,
+        "name": "Parbhani",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SS_UBT",
+        "incumbentMargin": 11.5
+      },
+      {
+        "number": 18,
+        "name": "Jalna",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 8.7
+      },
+      {
+        "number": 19,
+        "name": "Aurangabad",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "SS",
+        "incumbentMargin": 10.4
+      },
+      {
+        "number": 20,
+        "name": "Maval",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SS",
+        "incumbentMargin": 20.1
+      },
+      {
+        "number": 21,
+        "name": "Pune",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 6.2
+      },
+      {
+        "number": 22,
+        "name": "Baramati",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "NCP",
+        "incumbentMargin": 12.8
+      },
+      {
+        "number": 23,
+        "name": "Shirur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "NCP",
+        "incumbentMargin": 10.2
+      },
+      {
+        "number": 24,
+        "name": "Ahmednagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "NCP",
+        "incumbentMargin": 2.1
+      },
+      {
+        "number": 25,
+        "name": "Shirdi",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "SS",
+        "incumbentMargin": 4.1
+      },
+      {
+        "number": 26,
+        "name": "Beed",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "NCP",
+        "incumbentMargin": 0.5
+      },
+      {
+        "number": 27,
+        "name": "Osmanabad",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SS_UBT",
+        "incumbentMargin": 18.2
+      },
+      {
+        "number": 28,
+        "name": "Latur",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.4
+      },
+      {
+        "number": 29,
+        "name": "Solapur",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 6.8
+      },
+      {
+        "number": 30,
+        "name": "Madha",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 2.8
+      },
+      {
+        "number": 31,
+        "name": "Sangli",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 2.5
+      },
+      {
+        "number": 32,
+        "name": "Satara",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.1
+      },
+      {
+        "number": 33,
+        "name": "Ratnagiri Sindhudurg",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 20.3
+      },
+      {
+        "number": 34,
+        "name": "Kolhapur",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 11.2
+      },
+      {
+        "number": 35,
+        "name": "Hatkanangle",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SS",
+        "incumbentMargin": 1.2
+      },
+      {
+        "number": 36,
+        "name": "Nashik",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "NCP",
+        "incumbentMargin": 12.3
+      },
+      {
+        "number": 37,
+        "name": "Dindori",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "NCP",
+        "incumbentMargin": 6.4
+      },
+      {
+        "number": 38,
+        "name": "Palghar",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 15.2
+      },
+      {
+        "number": 39,
+        "name": "Bhiwandi",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "NCP",
+        "incumbentMargin": 5.9
+      },
+      {
+        "number": 40,
+        "name": "Kalyan",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "SS",
+        "incumbentMargin": 25.1
+      },
+      {
+        "number": 41,
+        "name": "Thane",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "SS",
+        "incumbentMargin": 18.2
+      },
+      {
+        "number": 42,
+        "name": "Mumbai North",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 30.5
+      },
+      {
+        "number": 43,
+        "name": "Mumbai North West",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "SS",
+        "incumbentMargin": 0.1
+      },
+      {
+        "number": 44,
+        "name": "Mumbai North East",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 10.5
+      },
+      {
+        "number": 45,
+        "name": "Mumbai North Central",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 2.1
+      },
+      {
+        "number": 46,
+        "name": "Mumbai South Central",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "SS_UBT",
+        "incumbentMargin": 4.8
+      },
+      {
+        "number": 47,
+        "name": "Mumbai South",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "SS_UBT",
+        "incumbentMargin": 6.8
+      },
+      {
+        "number": 48,
+        "name": "Raigad",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "NCP_AP",
+        "incumbentMargin": 7.8
+      }
+    ]
+  },
+  "West Bengal": {
+    "stateId": "West Bengal",
+    "totalSeats": 42,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Cooch Behar",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 12.9
+      },
+      {
+        "number": 2,
+        "name": "Alipurduars",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 10.5
+      },
+      {
+        "number": 3,
+        "name": "Jalpaiguri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 16.6
+      },
+      {
+        "number": 4,
+        "name": "Darjeeling",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 22.9
+      },
+      {
+        "number": 5,
+        "name": "Raiganj",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 5.4
+      },
+      {
+        "number": 6,
+        "name": "Balurghat",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 7.8
+      },
+      {
+        "number": 7,
+        "name": "Maldaha Uttar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 6.8
+      },
+      {
+        "number": 8,
+        "name": "Maldaha Dakshin",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.9
+      },
+      {
+        "number": 9,
+        "name": "Jangipur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 15.5
+      },
+      {
+        "number": 10,
+        "name": "Baharampur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 22.6
+      },
+      {
+        "number": 11,
+        "name": "Murshidabad",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.4
+      },
+      {
+        "number": 12,
+        "name": "Krishnanagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 19.9
+      },
+      {
+        "number": 13,
+        "name": "Ranaghat",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 20.9
+      },
+      {
+        "number": 14,
+        "name": "Bangaon",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 17.2
+      },
+      {
+        "number": 15,
+        "name": "Barrackpore",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 16.8
+      },
+      {
+        "number": 16,
+        "name": "Dum Dum",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 5
+      },
+      {
+        "number": 17,
+        "name": "Barasat",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 5.1
+      },
+      {
+        "number": 18,
+        "name": "Basirhat",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 17.3
+      },
+      {
+        "number": 19,
+        "name": "Jaynagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 20.1
+      },
+      {
+        "number": 20,
+        "name": "Mathurapur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 6.2
+      },
+      {
+        "number": 21,
+        "name": "Diamond Harbour",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 3.3
+      },
+      {
+        "number": 22,
+        "name": "Jadavpur",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 10.7
+      },
+      {
+        "number": 23,
+        "name": "Kolkata Dakshin",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 6.7
+      },
+      {
+        "number": 24,
+        "name": "Kolkata Uttar",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 13.2
+      },
+      {
+        "number": 25,
+        "name": "Howrah",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 6.6
+      },
+      {
+        "number": 26,
+        "name": "Uluberia",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 15.5
+      },
+      {
+        "number": 27,
+        "name": "Sreerampur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 9.7
+      },
+      {
+        "number": 28,
+        "name": "Hooghly",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 18.1
+      },
+      {
+        "number": 29,
+        "name": "Arambagh",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 20.1
+      },
+      {
+        "number": 30,
+        "name": "Tamluk",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 13
+      },
+      {
+        "number": 31,
+        "name": "Kanthi",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 6.7
+      },
+      {
+        "number": 32,
+        "name": "Ghatal",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.2
+      },
+      {
+        "number": 33,
+        "name": "Jhargram",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 11.9
+      },
+      {
+        "number": 34,
+        "name": "Medinipur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 3.9
+      },
+      {
+        "number": 35,
+        "name": "Purulia",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.7
+      },
+      {
+        "number": 36,
+        "name": "Bankura",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 22.4
+      },
+      {
+        "number": 37,
+        "name": "Bishnupur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 8.7
+      },
+      {
+        "number": 38,
+        "name": "Bardhaman Purba",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.9
+      },
+      {
+        "number": 39,
+        "name": "Bardhaman-Durgapur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 4.5
+      },
+      {
+        "number": 40,
+        "name": "Asansol",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TMC",
+        "incumbentMargin": 17.8
+      },
+      {
+        "number": 41,
+        "name": "Bolpur",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 14.6
+      },
+      {
+        "number": 42,
+        "name": "Birbhum",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 17.4
+      }
+    ]
+  },
+  "Bihar": {
+    "stateId": "Bihar",
+    "totalSeats": 40,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Valmiki Nagar",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "JDU",
+        "incumbentMargin": 9.3
+      },
+      {
+        "number": 2,
+        "name": "Paschim Champaran",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 17.3
+      },
+      {
+        "number": 3,
+        "name": "Purvi Champaran",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "RJD",
+        "incumbentMargin": 16.9
+      },
+      {
+        "number": 4,
+        "name": "Sheohar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 3.8
+      },
+      {
+        "number": 5,
+        "name": "Sitamarhi",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "LJP",
+        "incumbentMargin": 4.8
+      },
+      {
+        "number": 6,
+        "name": "Madhubani",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "JDU",
+        "incumbentMargin": 21.8
+      },
+      {
+        "number": 7,
+        "name": "Jhanjharpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.8
+      },
+      {
+        "number": 8,
+        "name": "Supaul",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "RJD",
+        "incumbentMargin": 10.6
+      },
+      {
+        "number": 9,
+        "name": "Araria",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.9
+      },
+      {
+        "number": 10,
+        "name": "Kishanganj",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "LJP",
+        "incumbentMargin": 11.3
+      },
+      {
+        "number": 11,
+        "name": "Katihar",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "JDU",
+        "incumbentMargin": 7.1
+      },
+      {
+        "number": 12,
+        "name": "Purnia",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 8.1
+      },
+      {
+        "number": 13,
+        "name": "Madhepura",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "RJD",
+        "incumbentMargin": 19.4
+      },
+      {
+        "number": 14,
+        "name": "Bhagalpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 14.3
+      },
+      {
+        "number": 15,
+        "name": "Banka",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "LJP",
+        "incumbentMargin": 22.1
+      },
+      {
+        "number": 16,
+        "name": "Munger",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "JDU",
+        "incumbentMargin": 20.9
+      },
+      {
+        "number": 17,
+        "name": "Nalanda",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 22.7
+      },
+      {
+        "number": 18,
+        "name": "Patna Sahib",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "RJD",
+        "incumbentMargin": 13.9
+      },
+      {
+        "number": 19,
+        "name": "Pataliputra",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.9
+      },
+      {
+        "number": 20,
+        "name": "Arrah",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "LJP",
+        "incumbentMargin": 6.1
+      },
+      {
+        "number": 21,
+        "name": "Buxar",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "JDU",
+        "incumbentMargin": 16.6
+      },
+      {
+        "number": 22,
+        "name": "Sasaram",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 6
+      },
+      {
+        "number": 23,
+        "name": "Karakat",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "RJD",
+        "incumbentMargin": 8.9
+      },
+      {
+        "number": 24,
+        "name": "Jehanabad",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 18.6
+      },
+      {
+        "number": 25,
+        "name": "Aurangabad",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "LJP",
+        "incumbentMargin": 8
+      },
+      {
+        "number": 26,
+        "name": "Gaya",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "JDU",
+        "incumbentMargin": 7.1
+      },
+      {
+        "number": 27,
+        "name": "Nawada",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 12.3
+      },
+      {
+        "number": 28,
+        "name": "Jamui",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "RJD",
+        "incumbentMargin": 19.4
+      },
+      {
+        "number": 29,
+        "name": "Hajipur",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.9
+      },
+      {
+        "number": 30,
+        "name": "Vaishali",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "LJP",
+        "incumbentMargin": 10.4
+      },
+      {
+        "number": 31,
+        "name": "Muzaffarpur",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "JDU",
+        "incumbentMargin": 12.4
+      },
+      {
+        "number": 32,
+        "name": "Maharajganj",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 12.9
+      },
+      {
+        "number": 33,
+        "name": "Saran",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "RJD",
+        "incumbentMargin": 4.7
+      },
+      {
+        "number": 34,
+        "name": "Ujiarpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 9.7
+      },
+      {
+        "number": 35,
+        "name": "Samastipur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "LJP",
+        "incumbentMargin": 6.7
+      },
+      {
+        "number": 36,
+        "name": "Begusarai",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "JDU",
+        "incumbentMargin": 9
+      },
+      {
+        "number": 37,
+        "name": "Khagaria",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 21.9
+      },
+      {
+        "number": 38,
+        "name": "Darbhanga",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "RJD",
+        "incumbentMargin": 3
+      },
+      {
+        "number": 39,
+        "name": "Gopalganj",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 15.6
+      },
+      {
+        "number": 40,
+        "name": "Siwan",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "LJP",
+        "incumbentMargin": 21
+      }
+    ]
+  },
+  "Tamil Nadu": {
+    "stateId": "Tamil Nadu",
+    "totalSeats": 39,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Thiruvallur",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 19.3
+      },
+      {
+        "number": 2,
+        "name": "Chennai North",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 13.4
+      },
+      {
+        "number": 3,
+        "name": "Chennai South",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 13.9
+      },
+      {
+        "number": 4,
+        "name": "Chennai Central",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 21
+      },
+      {
+        "number": 5,
+        "name": "Sriperumbudur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 14.7
+      },
+      {
+        "number": 6,
+        "name": "Kancheepuram",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 7.8
+      },
+      {
+        "number": 7,
+        "name": "Arakkonam",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 12.6
+      },
+      {
+        "number": 8,
+        "name": "Vellore",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 20.1
+      },
+      {
+        "number": 9,
+        "name": "Krishnagiri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 17.5
+      },
+      {
+        "number": 10,
+        "name": "Dharmapuri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 9.4
+      },
+      {
+        "number": 11,
+        "name": "Tiruvannamalai",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 18.5
+      },
+      {
+        "number": 12,
+        "name": "Arani",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 3.1
+      },
+      {
+        "number": 13,
+        "name": "Viluppuram",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 21.7
+      },
+      {
+        "number": 14,
+        "name": "Kallakurichi",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 9.3
+      },
+      {
+        "number": 15,
+        "name": "Salem",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 18.6
+      },
+      {
+        "number": 16,
+        "name": "Namakkal",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 6.4
+      },
+      {
+        "number": 17,
+        "name": "Erode",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 15
+      },
+      {
+        "number": 18,
+        "name": "Tiruppur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 23
+      },
+      {
+        "number": 19,
+        "name": "Nilgiris",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 3.8
+      },
+      {
+        "number": 20,
+        "name": "Coimbatore",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 9.1
+      },
+      {
+        "number": 21,
+        "name": "Pollachi",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 7.2
+      },
+      {
+        "number": 22,
+        "name": "Dindigul",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 6.9
+      },
+      {
+        "number": 23,
+        "name": "Karur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 7
+      },
+      {
+        "number": 24,
+        "name": "Tiruchirappalli",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 14.8
+      },
+      {
+        "number": 25,
+        "name": "Perambalur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 4.5
+      },
+      {
+        "number": 26,
+        "name": "Cuddalore",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 19.6
+      },
+      {
+        "number": 27,
+        "name": "Chidambaram",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 18.9
+      },
+      {
+        "number": 28,
+        "name": "Mayiladuthurai",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 6.9
+      },
+      {
+        "number": 29,
+        "name": "Nagapattinam",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 10.4
+      },
+      {
+        "number": 30,
+        "name": "Thanjavur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 22.6
+      },
+      {
+        "number": 31,
+        "name": "Sivaganga",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 9.2
+      },
+      {
+        "number": 32,
+        "name": "Madurai",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 7.4
+      },
+      {
+        "number": 33,
+        "name": "Theni",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 21
+      },
+      {
+        "number": 34,
+        "name": "Virudhunagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 9.1
+      },
+      {
+        "number": 35,
+        "name": "Ramanathapuram",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 17.6
+      },
+      {
+        "number": 36,
+        "name": "Thoothukudi",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 14.1
+      },
+      {
+        "number": 37,
+        "name": "Tenkasi",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "DMK",
+        "incumbentMargin": 8.1
+      },
+      {
+        "number": 38,
+        "name": "Tirunelveli",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 10.5
+      },
+      {
+        "number": 39,
+        "name": "Kanniyakumari",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIADMK",
+        "incumbentMargin": 7.7
+      }
+    ]
+  },
+  "Madhya Pradesh": {
+    "stateId": "Madhya Pradesh",
+    "totalSeats": 29,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Morena",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 14
+      },
+      {
+        "number": 2,
+        "name": "Bhind",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 19.6
+      },
+      {
+        "number": 3,
+        "name": "Gwalior",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.8
+      },
+      {
+        "number": 4,
+        "name": "Guna",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 16.4
+      },
+      {
+        "number": 5,
+        "name": "Sagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 13.9
+      },
+      {
+        "number": 6,
+        "name": "Tikamgarh",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 14.5
+      },
+      {
+        "number": 7,
+        "name": "Damoh",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 10.6
+      },
+      {
+        "number": 8,
+        "name": "Khajuraho",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 14.3
+      },
+      {
+        "number": 9,
+        "name": "Satna",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 17
+      },
+      {
+        "number": 10,
+        "name": "Rewa",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 21.8
+      },
+      {
+        "number": 11,
+        "name": "Sidhi",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 18.3
+      },
+      {
+        "number": 12,
+        "name": "Shahdol",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 4.9
+      },
+      {
+        "number": 13,
+        "name": "Jabalpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 7.1
+      },
+      {
+        "number": 14,
+        "name": "Mandla",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 12.3
+      },
+      {
+        "number": 15,
+        "name": "Balaghat",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 22.8
+      },
+      {
+        "number": 16,
+        "name": "Chhindwara",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 10.4
+      },
+      {
+        "number": 17,
+        "name": "Hoshangabad",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 13.8
+      },
+      {
+        "number": 18,
+        "name": "Vidisha",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 6
+      },
+      {
+        "number": 19,
+        "name": "Bhopal",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.2
+      },
+      {
+        "number": 20,
+        "name": "Rajgarh",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 21.2
+      },
+      {
+        "number": 21,
+        "name": "Dewas",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 7.4
+      },
+      {
+        "number": 22,
+        "name": "Ujjain",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 3
+      },
+      {
+        "number": 23,
+        "name": "Mandsaur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 10.9
+      },
+      {
+        "number": 24,
+        "name": "Ratlam",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 10.5
+      },
+      {
+        "number": 25,
+        "name": "Dhar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11
+      },
+      {
+        "number": 26,
+        "name": "Indore",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 7.3
+      },
+      {
+        "number": 27,
+        "name": "Khargone",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 13.1
+      },
+      {
+        "number": 28,
+        "name": "Khandwa",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 17.3
+      },
+      {
+        "number": 29,
+        "name": "Betul",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 9.8
+      }
+    ]
+  },
+  "Karnataka": {
+    "stateId": "Karnataka",
+    "totalSeats": 28,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Chikkodi",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.1
+      },
+      {
+        "number": 2,
+        "name": "Belgaum",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 3.9
+      },
+      {
+        "number": 3,
+        "name": "Bagalkot",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "JDS",
+        "incumbentMargin": 19.8
+      },
+      {
+        "number": 4,
+        "name": "Bijapur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.8
+      },
+      {
+        "number": 5,
+        "name": "Gulbarga",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 7.9
+      },
+      {
+        "number": 6,
+        "name": "Raichur",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "JDS",
+        "incumbentMargin": 3.8
+      },
+      {
+        "number": 7,
+        "name": "Bidar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 10.8
+      },
+      {
+        "number": 8,
+        "name": "Koppal",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 7.2
+      },
+      {
+        "number": 9,
+        "name": "Bellary",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "JDS",
+        "incumbentMargin": 22.6
+      },
+      {
+        "number": 10,
+        "name": "Haveri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 7.1
+      },
+      {
+        "number": 11,
+        "name": "Dharwad",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.7
+      },
+      {
+        "number": 12,
+        "name": "Uttara Kannada",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "JDS",
+        "incumbentMargin": 10.7
+      },
+      {
+        "number": 13,
+        "name": "Davanagere",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 20.4
+      },
+      {
+        "number": 14,
+        "name": "Shimoga",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.6
+      },
+      {
+        "number": 15,
+        "name": "Udupi Chikmagalur",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "JDS",
+        "incumbentMargin": 17.9
+      },
+      {
+        "number": 16,
+        "name": "Hassan",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 13.3
+      },
+      {
+        "number": 17,
+        "name": "Dakshina Kannada",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 9.7
+      },
+      {
+        "number": 18,
+        "name": "Chitradurga",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "JDS",
+        "incumbentMargin": 10.2
+      },
+      {
+        "number": 19,
+        "name": "Tumkur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 6.3
+      },
+      {
+        "number": 20,
+        "name": "Mandya",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 10.6
+      },
+      {
+        "number": 21,
+        "name": "Mysore",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "JDS",
+        "incumbentMargin": 11.1
+      },
+      {
+        "number": 22,
+        "name": "Chamarajanagar",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.5
+      },
+      {
+        "number": 23,
+        "name": "Bangalore Rural",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 8.4
+      },
+      {
+        "number": 24,
+        "name": "Bangalore North",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "JDS",
+        "incumbentMargin": 12.3
+      },
+      {
+        "number": 25,
+        "name": "Bangalore Central",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.1
+      },
+      {
+        "number": 26,
+        "name": "Bangalore South",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 16.6
+      },
+      {
+        "number": 27,
+        "name": "Chikkaballapur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "JDS",
+        "incumbentMargin": 18.5
+      },
+      {
+        "number": 28,
+        "name": "Kolar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.6
+      }
+    ]
+  },
+  "Gujarat": {
+    "stateId": "Gujarat",
+    "totalSeats": 26,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Kutch",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 15.6
+      },
+      {
+        "number": 2,
+        "name": "Banaskantha",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.5
+      },
+      {
+        "number": 3,
+        "name": "Patan",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 17
+      },
+      {
+        "number": 4,
+        "name": "Mahesana",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 4.8
+      },
+      {
+        "number": 5,
+        "name": "Sabarkantha",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 20.3
+      },
+      {
+        "number": 6,
+        "name": "Gandhinagar",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 14.6
+      },
+      {
+        "number": 7,
+        "name": "Ahmedabad East",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 6.6
+      },
+      {
+        "number": 8,
+        "name": "Ahmedabad West",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 18.1
+      },
+      {
+        "number": 9,
+        "name": "Surendranagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 19.8
+      },
+      {
+        "number": 10,
+        "name": "Rajkot",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.5
+      },
+      {
+        "number": 11,
+        "name": "Porbandar",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 8.9
+      },
+      {
+        "number": 12,
+        "name": "Jamnagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 11.9
+      },
+      {
+        "number": 13,
+        "name": "Junagadh",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 9.5
+      },
+      {
+        "number": 14,
+        "name": "Amreli",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 9.8
+      },
+      {
+        "number": 15,
+        "name": "Bhavnagar",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 9.4
+      },
+      {
+        "number": 16,
+        "name": "Anand",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.9
+      },
+      {
+        "number": 17,
+        "name": "Kheda",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 4.1
+      },
+      {
+        "number": 18,
+        "name": "Panchmahal",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 3.8
+      },
+      {
+        "number": 19,
+        "name": "Dahod",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 18.3
+      },
+      {
+        "number": 20,
+        "name": "Vadodara",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 18.3
+      },
+      {
+        "number": 21,
+        "name": "Chhota Udaipur",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 11.7
+      },
+      {
+        "number": 22,
+        "name": "Bharuch",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.4
+      },
+      {
+        "number": 23,
+        "name": "Bardoli",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 14.5
+      },
+      {
+        "number": 24,
+        "name": "Surat",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 14.1
+      },
+      {
+        "number": 25,
+        "name": "Navsari",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11
+      },
+      {
+        "number": 26,
+        "name": "Valsad",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 21.5
+      }
+    ]
+  },
+  "Rajasthan": {
+    "stateId": "Rajasthan",
+    "totalSeats": 25,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Ganganagar",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 13
+      },
+      {
+        "number": 2,
+        "name": "Bikaner",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 22.8
+      },
+      {
+        "number": 3,
+        "name": "Churu",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 7.4
+      },
+      {
+        "number": 4,
+        "name": "Jhunjhunu",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 21
+      },
+      {
+        "number": 5,
+        "name": "Sikar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.4
+      },
+      {
+        "number": 6,
+        "name": "Jaipur Rural",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 19.9
+      },
+      {
+        "number": 7,
+        "name": "Jaipur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 15.5
+      },
+      {
+        "number": 8,
+        "name": "Alwar",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 13.8
+      },
+      {
+        "number": 9,
+        "name": "Bharatpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 12.8
+      },
+      {
+        "number": 10,
+        "name": "Karauli-Dholpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 7.1
+      },
+      {
+        "number": 11,
+        "name": "Dausa",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 6.7
+      },
+      {
+        "number": 12,
+        "name": "Tonk-Sawai Madhopur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 7.7
+      },
+      {
+        "number": 13,
+        "name": "Ajmer",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 22.2
+      },
+      {
+        "number": 14,
+        "name": "Nagaur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 19.2
+      },
+      {
+        "number": 15,
+        "name": "Pali",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.2
+      },
+      {
+        "number": 16,
+        "name": "Jodhpur",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 9.6
+      },
+      {
+        "number": 17,
+        "name": "Barmer",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 5.6
+      },
+      {
+        "number": 18,
+        "name": "Jalore",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 18.6
+      },
+      {
+        "number": 19,
+        "name": "Udaipur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.3
+      },
+      {
+        "number": 20,
+        "name": "Banswara",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 18.5
+      },
+      {
+        "number": 21,
+        "name": "Chittorgarh",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 5.1
+      },
+      {
+        "number": 22,
+        "name": "Rajsamand",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 15.7
+      },
+      {
+        "number": 23,
+        "name": "Bhilwara",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.4
+      },
+      {
+        "number": 24,
+        "name": "Kota",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 16.5
+      },
+      {
+        "number": 25,
+        "name": "Jhalawar-Baran",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 18.2
+      }
+    ]
+  },
+  "Andhra Pradesh": {
+    "stateId": "Andhra Pradesh",
+    "totalSeats": 25,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Araku",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "TDP",
+        "incumbentMargin": 18.1
+      },
+      {
+        "number": 2,
+        "name": "Srikakulam",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "YSRCP",
+        "incumbentMargin": 9.5
+      },
+      {
+        "number": 3,
+        "name": "Vizianagaram",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 14.5
+      },
+      {
+        "number": 4,
+        "name": "Visakhapatnam",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TDP",
+        "incumbentMargin": 13.6
+      },
+      {
+        "number": 5,
+        "name": "Anakapalli",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "YSRCP",
+        "incumbentMargin": 8
+      },
+      {
+        "number": 6,
+        "name": "Kakinada",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 4.9
+      },
+      {
+        "number": 7,
+        "name": "Amalapuram",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TDP",
+        "incumbentMargin": 11.5
+      },
+      {
+        "number": 8,
+        "name": "Rajahmundry",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "YSRCP",
+        "incumbentMargin": 7.8
+      },
+      {
+        "number": 9,
+        "name": "Narsapuram",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 5.2
+      },
+      {
+        "number": 10,
+        "name": "Eluru",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TDP",
+        "incumbentMargin": 14.8
+      },
+      {
+        "number": 11,
+        "name": "Machilipatnam",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "YSRCP",
+        "incumbentMargin": 9.4
+      },
+      {
+        "number": 12,
+        "name": "Vijayawada",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 14.2
+      },
+      {
+        "number": 13,
+        "name": "Guntur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TDP",
+        "incumbentMargin": 7.8
+      },
+      {
+        "number": 14,
+        "name": "Narasaraopet",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "YSRCP",
+        "incumbentMargin": 21.1
+      },
+      {
+        "number": 15,
+        "name": "Bapatla",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.8
+      },
+      {
+        "number": 16,
+        "name": "Ongole",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "TDP",
+        "incumbentMargin": 9.3
+      },
+      {
+        "number": 17,
+        "name": "Nandyal",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "YSRCP",
+        "incumbentMargin": 14.7
+      },
+      {
+        "number": 18,
+        "name": "Kurnool",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 22.6
+      },
+      {
+        "number": 19,
+        "name": "Anantapur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TDP",
+        "incumbentMargin": 9.7
+      },
+      {
+        "number": 20,
+        "name": "Hindupur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "YSRCP",
+        "incumbentMargin": 11.8
+      },
+      {
+        "number": 21,
+        "name": "Kadapa",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 22.8
+      },
+      {
+        "number": 22,
+        "name": "Nellore",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "TDP",
+        "incumbentMargin": 6
+      },
+      {
+        "number": 23,
+        "name": "Tirupati",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "YSRCP",
+        "incumbentMargin": 21.6
+      },
+      {
+        "number": 24,
+        "name": "Rajampet",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 7.6
+      },
+      {
+        "number": 25,
+        "name": "Chittoor",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "TDP",
+        "incumbentMargin": 19.1
+      }
+    ]
+  },
+  "Odisha": {
+    "stateId": "Odisha",
+    "totalSeats": 21,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Bargarh",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 22.6
+      },
+      {
+        "number": 2,
+        "name": "Sundargarh",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJD",
+        "incumbentMargin": 3.5
+      },
+      {
+        "number": 3,
+        "name": "Sambalpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 22.6
+      },
+      {
+        "number": 4,
+        "name": "Keonjhar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 12.9
+      },
+      {
+        "number": 5,
+        "name": "Mayurbhanj",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJD",
+        "incumbentMargin": 20.9
+      },
+      {
+        "number": 6,
+        "name": "Balasore",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 13.5
+      },
+      {
+        "number": 7,
+        "name": "Bhadrak",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 10.7
+      },
+      {
+        "number": 8,
+        "name": "Jajpur",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJD",
+        "incumbentMargin": 4.9
+      },
+      {
+        "number": 9,
+        "name": "Dhenkanal",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 15.7
+      },
+      {
+        "number": 10,
+        "name": "Bolangir",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 12.2
+      },
+      {
+        "number": 11,
+        "name": "Kalahandi",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJD",
+        "incumbentMargin": 20.2
+      },
+      {
+        "number": 12,
+        "name": "Nabarangpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 14
+      },
+      {
+        "number": 13,
+        "name": "Kandhamal",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 14.2
+      },
+      {
+        "number": 14,
+        "name": "Aska",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJD",
+        "incumbentMargin": 9
+      },
+      {
+        "number": 15,
+        "name": "Berhampur",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 15.2
+      },
+      {
+        "number": 16,
+        "name": "Koraput",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 17.9
+      },
+      {
+        "number": 17,
+        "name": "Bhubaneswar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJD",
+        "incumbentMargin": 22.1
+      },
+      {
+        "number": 18,
+        "name": "Cuttack",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 17.3
+      },
+      {
+        "number": 19,
+        "name": "Puri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 8.1
+      },
+      {
+        "number": 20,
+        "name": "Jagatsinghpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJD",
+        "incumbentMargin": 16.5
+      },
+      {
+        "number": 21,
+        "name": "Kendrapara",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 10.8
+      }
+    ]
+  },
+  "Kerala": {
+    "stateId": "Kerala",
+    "totalSeats": 20,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Kasaragod",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 10
+      },
+      {
+        "number": 2,
+        "name": "Kannur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "CPI_M",
+        "incumbentMargin": 22.6
+      },
+      {
+        "number": 3,
+        "name": "Vadakara",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 17.5
+      },
+      {
+        "number": 4,
+        "name": "Wayanad",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 16.1
+      },
+      {
+        "number": 5,
+        "name": "Kozhikode",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "CPI_M",
+        "incumbentMargin": 17.3
+      },
+      {
+        "number": 6,
+        "name": "Malappuram",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 21.2
+      },
+      {
+        "number": 7,
+        "name": "Ponnani",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 15.8
+      },
+      {
+        "number": 8,
+        "name": "Palakkad",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "CPI_M",
+        "incumbentMargin": 10
+      },
+      {
+        "number": 9,
+        "name": "Alathur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.6
+      },
+      {
+        "number": 10,
+        "name": "Thrissur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.5
+      },
+      {
+        "number": 11,
+        "name": "Chalakudy",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "CPI_M",
+        "incumbentMargin": 10.2
+      },
+      {
+        "number": 12,
+        "name": "Ernakulam",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 15.9
+      },
+      {
+        "number": 13,
+        "name": "Idukki",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 21.8
+      },
+      {
+        "number": 14,
+        "name": "Kottayam",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "CPI_M",
+        "incumbentMargin": 20.6
+      },
+      {
+        "number": 15,
+        "name": "Alappuzha",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 6.8
+      },
+      {
+        "number": 16,
+        "name": "Mavelikara",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 21.7
+      },
+      {
+        "number": 17,
+        "name": "Pathanamthitta",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "CPI_M",
+        "incumbentMargin": 4.4
+      },
+      {
+        "number": 18,
+        "name": "Kollam",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 20
+      },
+      {
+        "number": 19,
+        "name": "Attingal",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 3.2
+      },
+      {
+        "number": 20,
+        "name": "Thiruvananthapuram",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "CPI_M",
+        "incumbentMargin": 7.7
+      }
+    ]
+  },
+  "Telangana": {
+    "stateId": "Telangana",
+    "totalSeats": 17,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Adilabad",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 6.6
+      },
+      {
+        "number": 2,
+        "name": "Peddapalle",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.6
+      },
+      {
+        "number": 3,
+        "name": "Karimnagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BRS",
+        "incumbentMargin": 7.2
+      },
+      {
+        "number": 4,
+        "name": "Nizamabad",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIMIM",
+        "incumbentMargin": 6.1
+      },
+      {
+        "number": 5,
+        "name": "Zahirabad",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 16.7
+      },
+      {
+        "number": 6,
+        "name": "Medak",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16
+      },
+      {
+        "number": 7,
+        "name": "Malkajgiri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BRS",
+        "incumbentMargin": 14.1
+      },
+      {
+        "number": 8,
+        "name": "Secunderabad",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "AIMIM",
+        "incumbentMargin": 11
+      },
+      {
+        "number": 9,
+        "name": "Hyderabad",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.8
+      },
+      {
+        "number": 10,
+        "name": "Chevella",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 18.5
+      },
+      {
+        "number": 11,
+        "name": "Mahabubnagar",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BRS",
+        "incumbentMargin": 14.2
+      },
+      {
+        "number": 12,
+        "name": "Nagar Kurnool",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIMIM",
+        "incumbentMargin": 9.1
+      },
+      {
+        "number": 13,
+        "name": "Nalgonda",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 7.4
+      },
+      {
+        "number": 14,
+        "name": "Bhongir",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.8
+      },
+      {
+        "number": 15,
+        "name": "Warangal",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BRS",
+        "incumbentMargin": 9.1
+      },
+      {
+        "number": 16,
+        "name": "Mahabubabad",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "AIMIM",
+        "incumbentMargin": 13
+      },
+      {
+        "number": 17,
+        "name": "Khammam",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 11.4
+      }
+    ]
+  },
+  "Assam": {
+    "stateId": "Assam",
+    "totalSeats": 14,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Kokrajhar",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 13.4
+      },
+      {
+        "number": 2,
+        "name": "Dhubri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 19
+      },
+      {
+        "number": 3,
+        "name": "Barpeta",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIUDF",
+        "incumbentMargin": 17.7
+      },
+      {
+        "number": 4,
+        "name": "Darrang-Udalguri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 5
+      },
+      {
+        "number": 5,
+        "name": "Guwahati",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 10.9
+      },
+      {
+        "number": 6,
+        "name": "Diphu",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "AIUDF",
+        "incumbentMargin": 20.6
+      },
+      {
+        "number": 7,
+        "name": "Karimganj",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 17.7
+      },
+      {
+        "number": 8,
+        "name": "Silchar",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 14.5
+      },
+      {
+        "number": 9,
+        "name": "Nagaon",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIUDF",
+        "incumbentMargin": 11
+      },
+      {
+        "number": 10,
+        "name": "Kaziranga",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 18.2
+      },
+      {
+        "number": 11,
+        "name": "Sonitpur",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 14.4
+      },
+      {
+        "number": 12,
+        "name": "Lakhimpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AIUDF",
+        "incumbentMargin": 7.9
+      },
+      {
+        "number": 13,
+        "name": "Dibrugarh",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 20.3
+      },
+      {
+        "number": 14,
+        "name": "Jorhat",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 13.4
+      }
+    ]
+  },
+  "Jharkhand": {
+    "stateId": "Jharkhand",
+    "totalSeats": 14,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Rajmahal",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "JMM",
+        "incumbentMargin": 12.9
+      },
+      {
+        "number": 2,
+        "name": "Dumka",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 8.5
+      },
+      {
+        "number": 3,
+        "name": "Godda",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 19.4
+      },
+      {
+        "number": 4,
+        "name": "Chatra",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "JMM",
+        "incumbentMargin": 20
+      },
+      {
+        "number": 5,
+        "name": "Koderma",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 4.8
+      },
+      {
+        "number": 6,
+        "name": "Giridih",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 8.5
+      },
+      {
+        "number": 7,
+        "name": "Dhanbad",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "JMM",
+        "incumbentMargin": 4.2
+      },
+      {
+        "number": 8,
+        "name": "Ranchi",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.6
+      },
+      {
+        "number": 9,
+        "name": "Jamshedpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 10.3
+      },
+      {
+        "number": 10,
+        "name": "Singhbhum",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "JMM",
+        "incumbentMargin": 17.7
+      },
+      {
+        "number": 11,
+        "name": "Khunti",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 15.3
+      },
+      {
+        "number": 12,
+        "name": "Lohardaga",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 18.5
+      },
+      {
+        "number": 13,
+        "name": "Palamu",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "JMM",
+        "incumbentMargin": 16.8
+      },
+      {
+        "number": 14,
+        "name": "Hazaribagh",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.7
+      }
+    ]
+  },
+  "Punjab": {
+    "stateId": "Punjab",
+    "totalSeats": 13,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Gurdaspur",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 18.2
+      },
+      {
+        "number": 2,
+        "name": "Amritsar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 16.6
+      },
+      {
+        "number": 3,
+        "name": "Khadoor Sahib",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 18.8
+      },
+      {
+        "number": 4,
+        "name": "Jalandhar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SHS",
+        "incumbentMargin": 18.5
+      },
+      {
+        "number": 5,
+        "name": "Hoshiarpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 7.4
+      },
+      {
+        "number": 6,
+        "name": "Anandpur Sahib",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 21.9
+      },
+      {
+        "number": 7,
+        "name": "Ludhiana",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 9.1
+      },
+      {
+        "number": 8,
+        "name": "Fatehgarh Sahib",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "SHS",
+        "incumbentMargin": 3.1
+      },
+      {
+        "number": 9,
+        "name": "Faridkot",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 17
+      },
+      {
+        "number": 10,
+        "name": "Firozpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 9
+      },
+      {
+        "number": 11,
+        "name": "Bathinda",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 9.3
+      },
+      {
+        "number": 12,
+        "name": "Sangrur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "SHS",
+        "incumbentMargin": 6
+      },
+      {
+        "number": 13,
+        "name": "Patiala",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 17.1
+      }
+    ]
+  },
+  "Chhattisgarh": {
+    "stateId": "Chhattisgarh",
+    "totalSeats": 11,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Surguja",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.9
+      },
+      {
+        "number": 2,
+        "name": "Raigarh",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 10.2
+      },
+      {
+        "number": 3,
+        "name": "Janjgir-Champa",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 18.9
+      },
+      {
+        "number": 4,
+        "name": "Korba",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 5.4
+      },
+      {
+        "number": 5,
+        "name": "Bilaspur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 5.3
+      },
+      {
+        "number": 6,
+        "name": "Rajnandgaon",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 19.7
+      },
+      {
+        "number": 7,
+        "name": "Durg",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.9
+      },
+      {
+        "number": 8,
+        "name": "Raipur",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 17.2
+      },
+      {
+        "number": 9,
+        "name": "Mahasamund",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.9
+      },
+      {
+        "number": 10,
+        "name": "Bastar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 22.8
+      },
+      {
+        "number": 11,
+        "name": "Kanker",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 10.9
+      }
+    ]
+  },
+  "Haryana": {
+    "stateId": "Haryana",
+    "totalSeats": 10,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Ambala",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 13.1
+      },
+      {
+        "number": 2,
+        "name": "Kurukshetra",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 21.8
+      },
+      {
+        "number": 3,
+        "name": "Sirsa",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INLD",
+        "incumbentMargin": 3.3
+      },
+      {
+        "number": 4,
+        "name": "Hisar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 9.1
+      },
+      {
+        "number": 5,
+        "name": "Karnal",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 18.9
+      },
+      {
+        "number": 6,
+        "name": "Sonipat",
+        "isUrban": false,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INLD",
+        "incumbentMargin": 3.7
+      },
+      {
+        "number": 7,
+        "name": "Rohtak",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 5
+      },
+      {
+        "number": 8,
+        "name": "Bhiwani-Mahendragarh",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 4.1
+      },
+      {
+        "number": 9,
+        "name": "Gurgaon",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INLD",
+        "incumbentMargin": 8.3
+      },
+      {
+        "number": 10,
+        "name": "Faridabad",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 18.6
+      }
+    ]
+  },
+  "Delhi": {
+    "stateId": "Delhi",
+    "totalSeats": 7,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Chandni Chowk",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 21.1
+      },
+      {
+        "number": 2,
+        "name": "Northeast Delhi",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 13.5
+      },
+      {
+        "number": 3,
+        "name": "East Delhi",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 12.7
+      },
+      {
+        "number": 4,
+        "name": "New Delhi",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 16.8
+      },
+      {
+        "number": 5,
+        "name": "Northwest Delhi",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "AAP",
+        "incumbentMargin": 20.8
+      },
+      {
+        "number": 6,
+        "name": "West Delhi",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "SC",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 4.8
+      },
+      {
+        "number": 7,
+        "name": "South Delhi",
+        "isUrban": true,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.1
+      }
+    ]
+  },
+  "Jammu & Kashmir": {
+    "stateId": "Jammu & Kashmir",
+    "totalSeats": 5,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Baramulla",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "NC",
+        "incumbentMargin": 20.2
+      },
+      {
+        "number": 2,
+        "name": "Srinagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 5.1
+      },
+      {
+        "number": 3,
+        "name": "Anantnag-Rajouri",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "PDP",
+        "incumbentMargin": 16.9
+      },
+      {
+        "number": 4,
+        "name": "Udhampur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "NC",
+        "incumbentMargin": 8.1
+      },
+      {
+        "number": 5,
+        "name": "Jammu",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.3
+      }
+    ]
+  },
+  "Uttarakhand": {
+    "stateId": "Uttarakhand",
+    "totalSeats": 5,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Tehri Garhwal",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 11.5
+      },
+      {
+        "number": 2,
+        "name": "Garhwal",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 11.1
+      },
+      {
+        "number": 3,
+        "name": "Almora",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 5.6
+      },
+      {
+        "number": 4,
+        "name": "Nainital-Udhamsingh Nagar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 3.7
+      },
+      {
+        "number": 5,
+        "name": "Haridwar",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 3.1
+      }
+    ]
+  },
+  "Himachal Pradesh": {
+    "stateId": "Himachal Pradesh",
+    "totalSeats": 4,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Kangra",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 4.1
+      },
+      {
+        "number": 2,
+        "name": "Mandi",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 19.6
+      },
+      {
+        "number": 3,
+        "name": "Hamirpur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 22.9
+      },
+      {
+        "number": 4,
+        "name": "Shimla",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 6.1
+      }
+    ]
+  },
+  "Tripura": {
+    "stateId": "Tripura",
+    "totalSeats": 2,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Tripura West",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 18.1
+      },
+      {
+        "number": 2,
+        "name": "Tripura East",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "CPI_M",
+        "incumbentMargin": 4.2
+      }
+    ]
+  },
+  "Meghalaya": {
+    "stateId": "Meghalaya",
+    "totalSeats": 2,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Shillong",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "NPP",
+        "incumbentMargin": 8.4
+      },
+      {
+        "number": 2,
+        "name": "Tura",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 4.3
+      }
+    ]
+  },
+  "Manipur": {
+    "stateId": "Manipur",
+    "totalSeats": 2,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Inner Manipur",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 19.7
+      },
+      {
+        "number": 2,
+        "name": "Outer Manipur",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 14.3
+      }
+    ]
+  },
+  "Arunachal Pradesh": {
+    "stateId": "Arunachal Pradesh",
+    "totalSeats": 2,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Arunachal West",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 12.7
+      },
+      {
+        "number": 2,
+        "name": "Arunachal East",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 3.5
+      }
+    ]
+  },
+  "Goa": {
+    "stateId": "Goa",
+    "totalSeats": 2,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "North Goa",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 21.2
+      },
+      {
+        "number": 2,
+        "name": "South Goa",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 16.5
+      }
+    ]
+  },
+  "Dadra & Nagar Haveli and Daman & Diu": {
+    "stateId": "Dadra & Nagar Haveli and Daman & Diu",
+    "totalSeats": 2,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Dadra & Nagar Haveli",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 10.4
+      },
+      {
+        "number": 2,
+        "name": "Daman & Diu",
+        "isUrban": false,
+        "isReserved": false,
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 11.4
+      }
+    ]
+  },
+  "Mizoram": {
+    "stateId": "Mizoram",
+    "totalSeats": 1,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Mizoram",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "ZPM",
+        "incumbentMargin": 21.2
+      }
+    ]
+  },
+  "Nagaland": {
+    "stateId": "Nagaland",
+    "totalSeats": 1,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Nagaland",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "NDPP",
+        "incumbentMargin": 19.5
+      }
+    ]
+  },
+  "Sikkim": {
+    "stateId": "Sikkim",
+    "totalSeats": 1,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Sikkim",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "SKM",
+        "incumbentMargin": 15.1
+      }
+    ]
+  },
+  "Puducherry": {
+    "stateId": "Puducherry",
+    "totalSeats": 1,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Puducherry",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 11.5
+      }
+    ]
+  },
+  "Chandigarh": {
+    "stateId": "Chandigarh",
+    "totalSeats": 1,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Chandigarh",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 20.7
+      }
+    ]
+  },
+  "Andaman & Nicobar": {
+    "stateId": "Andaman & Nicobar",
+    "totalSeats": 1,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Andaman & Nicobar Islands",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 17.8
+      }
+    ]
+  },
+  "Lakshadweep": {
+    "stateId": "Lakshadweep",
+    "totalSeats": 1,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Lakshadweep",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "INC",
+        "incumbentMargin": 7.9
+      }
+    ]
+  },
+  "Ladakh": {
+    "stateId": "Ladakh",
+    "totalSeats": 1,
+    "constituencies": [
+      {
+        "number": 1,
+        "name": "Ladakh",
+        "isUrban": true,
+        "isReserved": true,
+        "reservedFor": "ST",
+        "incumbentPartyId": "BJP",
+        "incumbentMargin": 12.5
+      }
+    ]
+  }
+}
