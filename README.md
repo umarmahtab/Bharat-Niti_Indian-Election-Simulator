@@ -1,32 +1,72 @@
-# React + TypeScript + Vite
+# 🇮🇳 Bharat Niti
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> A browser-based Indian political strategy and election simulation game built with React, TypeScript, Vite, Zustand, Tailwind CSS, and Framer Motion.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📖 About
 
-## React Compiler
+**Bharat Niti** is a turn-based election strategy simulator inspired by India's democratic process.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Build your campaign, form alliances, manage resources, respond to dynamic political events, and compete against intelligent AI to secure a parliamentary majority or become Chief Minister.
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## 📸 Screenshots
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+Screenshots are available in the **`screenshots/`** folder.
+
+| Home | Campaign | Election Night |
+|------|----------|----------------|
+| ![](screenshots/home.png) | ![](screenshots/campaign.png) | ![](screenshots/election-night.png) |
+
+---
+
+## ✨ Features
+
+- 🗳️ Lok Sabha Election Mode
+- 🏛️ State Assembly Mode *(Work in Progress)*
+- 🤝 Alliance & Seat Sharing
+- 🗺️ Interactive India Map
+- 📍 Constituency-Level Campaigning
+- 🧠 Intelligent AI Opponents
+- 📊 Opinion & Exit Polls
+- ⚡ Dynamic Political Events
+- 🎯 Campaign War Room
+- 📈 Realistic Election Simulation
+- 💾 Save & Resume Campaigns
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Zustand
+- Tailwind CSS
+- Framer Motion
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/yourusername/bharat-niti.git
+
+cd bharat-niti
+
+npm install
+
+npm run dev
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+---
+
+## 📄 Disclaimer
+
+**Bharat Niti** is a fictional strategy game inspired by India's democratic process. It is created solely for entertainment and educational purposes and does not endorse or represent any political party, leader, or organization.
+
+---
+
+⭐ If you enjoyed the project, consider giving it a Star!
