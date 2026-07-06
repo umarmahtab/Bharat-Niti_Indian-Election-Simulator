@@ -1,4 +1,4 @@
-# 🇮🇳 Bharat Niti
+# Bharat Niti
 
 > A browser-based Indian political strategy and election simulation game inspired by India's democratic process.
 
