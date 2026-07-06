@@ -107,6 +107,16 @@ npm run build
 
 ---
 
+## 🚧 Development Status
+
+**Bharat Niti** is currently in **active development**.
+
+The project is in an early build and should not yet be considered a finished product. Many gameplay systems, AI mechanics, election simulations, balancing, UI elements, and quality-of-life improvements are still under development. You may encounter bugs, incomplete features, temporary assets, or gameplay changes as the project evolves.
+
+The project is continuously being refined with the goal of delivering a polished and immersive political strategy experience.
+
+---
+
 ## 📄 Disclaimer
 
 **Bharat Niti** is a fictional strategy game inspired by India's democratic process and is created solely for entertainment and educational purposes. Any resemblance between in-game outcomes and real-world events is purely coincidental.
